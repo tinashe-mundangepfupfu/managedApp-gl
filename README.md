@@ -1,6 +1,6 @@
 # frontendapp
-// Refreshing my mind on k8s Operators by creating a simple k8s operator for a simple Python App WebApp that chan
-// the main focus is on the K8s Operator and not the simple FE App
+ Refreshing my mind on k8s Operators by creating a simple k8s operator for a simple Python App WebApp
+the main focus is on the K8s Operator and not the simple FE App
 
 
 ## Getting Started
